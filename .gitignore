@@ -1,0 +1,11 @@
+# Enviroments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDEs
+
+.code
+.vscode
